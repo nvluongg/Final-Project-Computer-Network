@@ -1,4 +1,10 @@
-# Project 2: Intra-Domain Routing Algorithms
+# Final Project: Intra-Domain Routing Algorithms
+
+## Author
+Studen ID and Name: 
+* 23020624-Nguyen Van Luong
+* 23020625-Nguyen Ba Manh
+* 23020636-Nguyen Huu Hong Phuc
 
 ## Objective
 
